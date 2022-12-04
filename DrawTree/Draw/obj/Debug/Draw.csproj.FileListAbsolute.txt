@@ -1,0 +1,13 @@
+C:\Users\goawa\Desktop\DrawTree\Draw\bin\Debug\Draw.exe.config
+C:\Users\goawa\Desktop\DrawTree\Draw\bin\Debug\Draw.exe
+C:\Users\goawa\Desktop\DrawTree\Draw\bin\Debug\Draw.pdb
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\BinaryTree.baml
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\BinaryTree.g.cs
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\App.g.cs
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw_MarkupCompile.cache
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.g.resources
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.exe
+C:\Users\goawa\Desktop\DrawTree\Draw\obj\Debug\Draw.pdb
