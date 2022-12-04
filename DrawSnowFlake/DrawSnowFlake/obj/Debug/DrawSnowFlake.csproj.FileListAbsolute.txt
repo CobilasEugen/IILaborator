@@ -1,0 +1,13 @@
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\bin\Debug\DrawSnowFlake.exe.config
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\bin\Debug\DrawSnowFlake.exe
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\bin\Debug\DrawSnowFlake.pdb
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.csproj.AssemblyReference.cache
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.csproj.SuggestedBindingRedirects.cache
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\SnowFlake.baml
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\SnowFlake.g.cs
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\App.g.cs
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake_MarkupCompile.cache
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.g.resources
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.csproj.CoreCompileInputs.cache
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.exe
+C:\Users\goawa\Desktop\DrawSnowFlake_Copy1\DrawSnowFlake\obj\Debug\DrawSnowFlake.pdb
